@@ -1,2 +1,13 @@
-# spider-clock-animation
-An interactive Spider Clock Animation built using HTML, CSS, and JavaScript. This project features a creative animated clock where a spider moves dynamically to represent time in a visually engaging way.
+# 🕷️ Spider Clock Animation
+
+An interactive and visually creative clock animation where a spider dynamically moves to represent time. Built using HTML, CSS, and JavaScript, this project combines animation and real-time functionality.
+
+---
+
+## 🚀 Features
+
+- 🕒 Real-time clock functionality
+- 🕷️ Spider-based animated movement
+- 🎨 Smooth CSS animations
+- 💡 Creative and unique UI design
+- 📱 Responsive layout (optional if added)
